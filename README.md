@@ -8,6 +8,7 @@ The tracking system in this repository captures video, uses the custom detection
 detected objects across frames, providing real-time tracking information. Using the Supervision library from Roboflow, a tool commonly used for computer vision tasks, the 
 detection model is implemented for tracking. The performance is very good and up to standard. However, it may have shortfalls depending on the type of data used for tracking,
 as the effectiveness heavily relies on the initial data used for implementing the detection model.
+[KEKE_NAPEP_TRACKING_TEST Video](https://drive.google.com/file/d/1PeobEpOqD59dihA_S0jbHQh--dys-C4n/view?usp=drive_link).
 
 ## Future Improvements
 
