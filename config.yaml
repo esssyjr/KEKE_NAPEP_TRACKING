@@ -1,0 +1,7 @@
+
+path: \Users\HP\Desktop\KEKENAPEP\images
+train: train
+val: train
+
+names:
+  0: keke_napep
