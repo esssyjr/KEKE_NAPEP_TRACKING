@@ -18,17 +18,19 @@ The dataset consists of **84 annotated images**, sourced from **various location
 
 ## Annotation Details
 - **Annotation Tool:** CVAT.ai  
-- **Labeling:** Each image is manually labeled to ensure accurate detection.  
+- **Labeling:** Each image is manually labeled to ensure accurate detection.
 
-## Future Improvements
+## Dataset Link
+The dataset is publicly available on **Kaggle**:  
+📂 **[Keke Napep (Tricycle) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**  
+
+## Future Improvements for dataset
 Future improvements include expanding the dataset to cover:  
 - **More geographical locations** across Nigeria, including **urban, rural, and suburban areas**.  
 - **Various weather conditions**, such as **day, night, and different lighting scenarios**.  
 - **Different KEKE NAPEP varieties**, including **various colors, designs, and modifications**.  
 
-## Dataset Link
-The dataset is publicly available on **Kaggle**:  
-📂 **[Keke Napep (Tricycle) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**  
+
 
 
 ---
