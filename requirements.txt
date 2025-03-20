@@ -1,0 +1,4 @@
+ultralytics
+supervision
+cv2
+collections
