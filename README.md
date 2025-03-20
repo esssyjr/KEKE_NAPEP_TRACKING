@@ -12,16 +12,24 @@ This project focuses on detecting and tracking **KEKE_NAPEP** (tricycles), a pri
 
 ---
 
-## Dataset  
+# Dataset
 
-The dataset consists of **84 annotated images**, sourced from various locations in **Kano State, Nigeria**, capturing diverse **environmental conditions**.  
+The dataset consists of **84 annotated images**, sourced from **various locations in Kano State, Nigeria**, capturing diverse environmental conditions. Both images and labels are provided in **YOLO format**, making it directly compatible with **Ultralytics YOLOv8** and other object detection models.  
+
+## Annotation Details
 - **Annotation Tool:** CVAT.ai  
-- **Labeling:** Each image is manually labeled to ensure accurate detection  
+- **Labeling:** Each image is manually labeled to ensure accurate detection.  
 
-Future improvements include **expanding the dataset** to cover:  
-- **More geographical locations across Nigeria** (urban, rural, and suburban areas)  
-- **Various weather conditions** (day, and night scenes)  
-- **Different KEKE_NAPEP varieties** (colors, designs, and modifications)  
+## Future Improvements
+Future improvements include expanding the dataset to cover:  
+- **More geographical locations** across Nigeria, including **urban, rural, and suburban areas**.  
+- **Various weather conditions**, such as **day, night, and different lighting scenarios**.  
+- **Different KEKE NAPEP varieties**, including **various colors, designs, and modifications**.  
+
+## Dataset Link
+The dataset is publicly available on **Kaggle**:  
+📂 **[Keke Napep (Tricycle) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**  
+
 
 ---
 
