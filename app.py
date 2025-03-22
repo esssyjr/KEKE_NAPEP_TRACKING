@@ -9,7 +9,7 @@ keke_model = YOLO('KEKE_NAPEP.pt')
 
 # Function to detect plants and draw red bounding boxes (plant detection)
 def detect_keke(image):
-    results = keke_model(image, 0.3)  # YOLO processes the image directly
+    results = keke_model(image, 0.2)  # YOLO processes the image directly
     image_np = np.array(image)
     
     for result in results:
